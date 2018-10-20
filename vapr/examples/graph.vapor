@@ -1,0 +1,8 @@
+x = -500
+while (x <= 500) {
+	print(x)
+	printline(x^2)
+	print(x)
+	printline(-(x^2)+150000)
+	x = x + 1
+}
